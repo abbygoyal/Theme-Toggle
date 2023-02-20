@@ -4,7 +4,7 @@ Theme switcher/toggle with React context
 
 ## Live Project Link
 
-[Theme Toggle](https://abhishek-goyal-portfolio.netlify.app/)
+[Theme Toggle](https://theme-toggler-react.netlify.app/)
 
 # How to fork and clone
 
