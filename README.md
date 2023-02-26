@@ -1,6 +1,6 @@
 ## Theme Toggle
 
-Theme switcher/toggle with React context
+Theme switcher/toggle between Black and White with React context
 
 ## Live Project Link
 
